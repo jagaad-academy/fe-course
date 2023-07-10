@@ -12,54 +12,9 @@ Our mission is to cultivate a diverse community of companies and IT talents, off
 
 By joining our courses, you'll gain expertise in building dynamic web applications using HTML, CSS, TypeScript, and more. Our curriculum covers the most in-demand technologies, empowering you to choose the right tools for any project you encounter. 
 
-## After graduation students will be able to:
-
--   By learning all the most requested technologies available on the market, you’ll be able to choose the right one for any project you face.
--   Through different workplace scenarios and technical matters, you’ll learn how to analyze problems and solve them efficiently.
--   Using HTML, CSS, Js, Ts, React, Next.js and Docker you’ll be ready to create incredibly flawless components and apps.
--   By learning how to effectively use JavaScript and its frameworks, you’ll be able to add complexity to every web page.
-
-# Why joining Jagaad Academy?
-
-Our courses focus on teaching you the best tech-stacks, but you will also gain skills such in teamwork, problem-solving, leadership, and more.
-
-**Our team of 50+ developers is spread around the world.**
-
-## Perks and advantages
-
--   Pay when you get a job
--   Hiring opportunities
--   Learn the most in-demand skills
--   Great career progression and salary
--   HR assistance
 
 ![](./images/hashtag-jagaad-academy.png)
 
-# Community
-
-The development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
-
-**[Instagram](https://www.instagram.com/academyjagaad/) / [Facebook](https://www.facebook.com/JagaadAcademy) / [Linkedin](https://www.linkedin.com/school/jagaad-academy/)**
-
-# Frequently Asked Questions - [All FAQs](https://academy.jagaad.com/faq/)
-
-Here you can find some of the most asked questions, however for a full list of questions please access our website.
-
-## Do you have free courses that I can access?
-
-Our free courses are totally free, and they don’t require you to enroll in our full-time course. You can follow them whenever you prefer! Please access here: [https://academy.jagaad.com/free-courses/](https://academy.jagaad.com/free-courses/)
-
-## How much do the courses cost?
-
-We teach our courses through a “study now, pay later” format. You will only need to pay for course once you find a job in the IT industry. And within 18 months from your graduation date, you will receive our assistance in helping you find a job.
-
--   6 months courses cost €3000
--   We offer the possibility to pay monthly fees of €149.50 euro for 20 months
--   You can also pay everything in one installment
-
-## Will I be supported in looking for a new job after the course?
-
-Of course!During the course you will have a dedicated module were will assist you in interview preparation, LinkedIn profile optimization and CV creation. You will just need to follow these steps when applying for a job.After graduation, the best performers will be invited to work for Jagaad. We will also contact graduates with our IT partner companies who are willing to hire new profiles.
 
 # What will you learn in the FE course with Jagaad Academy?
 
@@ -117,3 +72,31 @@ Also if you want to contact us directly, you can write to us at:
 
 For more information and to review our privacy policy, please visit our website:  
 [https://academy.jagaad.com/privacy/](https://academy.jagaad.com/privacy/)
+
+
+# Community
+
+The development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
+
+**[Instagram](https://www.instagram.com/academyjagaad/) / [Facebook](https://www.facebook.com/JagaadAcademy) / [Linkedin](https://www.linkedin.com/school/jagaad-academy/)**
+
+# Frequently Asked Questions - [All FAQs](https://academy.jagaad.com/faq/)
+
+Here you can find some of the most asked questions, however for a full list of questions please access our website.
+
+## Do you have free courses that I can access?
+
+Our free courses are totally free, and they don’t require you to enroll in our full-time course. You can follow them whenever you prefer! Please access here: [https://academy.jagaad.com/free-courses/](https://academy.jagaad.com/free-courses/)
+
+## How much do the courses cost?
+
+We teach our courses through a “study now, pay later” format. You will only need to pay for course once you find a job in the IT industry. And within 18 months from your graduation date, you will receive our assistance in helping you find a job.
+
+-   6 months courses cost €3000
+-   We offer the possibility to pay monthly fees of €149.50 euro for 20 months
+-   You can also pay everything in one installment
+
+## Will I be supported in looking for a new job after the course?
+
+Of course!During the course you will have a dedicated module were will assist you in interview preparation, LinkedIn profile optimization and CV creation. You will just need to follow these steps when applying for a job.After graduation, the best performers will be invited to work for Jagaad. We will also contact graduates with our IT partner companies who are willing to hire new profiles.
+
