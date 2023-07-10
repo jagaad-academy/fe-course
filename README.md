@@ -8,9 +8,9 @@
 
 # Summary
 
-Our mission is to grow the biggest community of companies and IT talents, so we teach software development courses and we also tailor B2B programs to update corporate team skills in IT.
+Our mission is to cultivate a diverse community of companies and IT talents, offering comprehensive software development courses and tailored B2B programs to enhance corporate team skills in the IT industry. 
 
-We teach our students how to build dynamic web applications using HTML, CSS, and TypeScript: everything they need to know for developing interfaces.
+By joining our courses, you'll gain expertise in building dynamic web applications using HTML, CSS, TypeScript, and more. Our curriculum covers the most in-demand technologies, empowering you to choose the right tools for any project you encounter. 
 
 ## After graduation students will be able to:
 
@@ -61,49 +61,59 @@ We teach our courses through a “study now, pay later” format. You will only 
 
 Of course!During the course you will have a dedicated module were will assist you in interview preparation, LinkedIn profile optimization and CV creation. You will just need to follow these steps when applying for a job.After graduation, the best performers will be invited to work for Jagaad. We will also contact graduates with our IT partner companies who are willing to hire new profiles.
 
-# What will I learn? - FE
+# What will you learn in the FE course with Jagaad Academy?
 
-These are just some Tech/Topics you will learn:
+-  Expand your skills: Our courses not only focus on tech stacks but also develop your teamwork, problem-solving, leadership, and other essential skills.
+-  Global community: With a team of 50+ developers worldwide, you'll have the opportunity to collaborate with professionals from diverse backgrounds.
+-  Study now, pay later: We offer a "study now, pay later" format, allowing you to pay for the course after 2 months from your graduation.
+-  Our HR assistance will support you in finding job opportunities and also help you develop soft skills and prepare effective CVs.
+-  If we still need to include any details here: please go to our frequently asked questions and get all the answers to your questions.
 
--   Introduction to Algorithm
--   Basics of Unix/bash
--   CSS
--   SASS
+Moreover, you can also explore our free courses to kickstart your learning journey.
+
+# What will you learn in the FE course with Jagaad Academy?
+
+Jagaad Academy's comprehensive Front-End (FE) curriculum includes the following topics: 
+
+-   Introduction to Algorithms
+-   Basics of Unix/Bash
+-   CSS and SASS
 -   HTML
--   Advance JS
--   Debugging
+-   Advanced JavaScript
+-   Debugging techniques
 -   Responsive web design
--   Visual guidelines
--   Code markup
--   Files version control (GIT)
--   Advanced Js
--   Code optimization
+-   Visual guidelines and code markup
+-   Version control with GIT
+-   Advanced JavaScript concepts
+-   Code optimization strategies
 -   Consuming APIs
 -   React & Redux Toolkit
 -   TypeScript
 -   Next.js
 -   Docker
+-   Storybook
 
 ![](./images/hashtag-jagaad-coach.png)
 
 # Become a coach
 
-We're looking for people we can pay to create full-length Scrimba courses. If you're interested, please access our website and fill the form or send us a direct message explaining why you want to become a coach with us and the area of expertise.
+Are you a seasoned professional interested in sharing your knowledge? Join us as a coach and get paid to create full-length Scrimba courses. We're looking for experienced individuals who have a taste for adventure and a passion for teaching bright minds. 
 
 ## Prerequisites to become a coach
 
--   More than 5+ years of experience on a given topic
--   Taste for adventure and teach new bright minds
--   Always ready to help and make things easier for the students and guide them along the process
+-   More than 5+ years of experience in a given topic
+-   Zeal to help and make things easier for the students and guide them along the process
 
 # Contact us
 
-You can contact us directly on [LinkedIn](https://www.linkedin.com/school/jagaad-academy/) or on [Facebook](https://www.facebook.com/JagaadAcademy). We also have a live chat on our website through Facebook messenger to make things even easier.
+Fill out the form on our website or send us a direct message to express your interest and area of expertise.
 
-If you want to write us you can also do it here:  
+To get in touch with us, reach out directly on [LinkedIn](https://www.linkedin.com/school/jagaad-academy/) or on [Facebook](https://www.facebook.com/JagaadAcademy). We also offer a convenient live chat option on our website through Facebook Messenger.
+
+Also if you want to contact us directly, you can write to us at: 
 [academy@jagaad.com](mailto:academy@jagaad.com)
 
 # Privacy policy
 
-We don’t want to bother you with these things, but they must be present.  
-Please check all details on our website: [https://academy.jagaad.com/privacy/](https://academy.jagaad.com/privacy/)
+For more information and to review our privacy policy, please visit our website:  
+[https://academy.jagaad.com/privacy/](https://academy.jagaad.com/privacy/)
