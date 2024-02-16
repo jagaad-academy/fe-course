@@ -83,7 +83,7 @@ We have free courses which can help you kickstart your learning journey. Our fre
 We teach our courses through a “study now, pay later" format, allowing you to pay for the course after 2 months from your graduation.
 
 -   6 months of courses cost €4000
--   We offer to pay in Easy Monthly Installment
+-   We offer payment in Easy Monthly Installment
 -   You can also pay everything in one installment and benefit from our discounts
 -   [Check out our plans](https://academy.jagaad.com/course/frontend-development/#payment)
 
