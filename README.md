@@ -10,7 +10,7 @@
 
 Our mission is to cultivate a diverse community of companies and IT talents, offering comprehensive software development courses and tailored B2B programs to enhance corporate team skills in the IT industry.
 
-By joining our courses, you'll gain expertise in building dynamic web applications using HTML, CSS, TypeScript, and more. Our curriculum covers the most in-demand technologies, empowering you to choose the right tools for any project you encounter. 
+By joining our courses, you'll gain expertise in building dynamic web applications using HTML, CSS, Javascript, React, TypeScript, and more. Our curriculum covers the most in-demand technologies, empowering you to choose the right tools for any project you encounter. 
 
 # Why you should choose Jagaad Academy
 
@@ -41,8 +41,8 @@ Jagaad Academy's comprehensive Front-End (FE) curriculum includes the following 
 
 -   Introduction to Algorithms
 -   Basics of Unix/Bash
--   CSS and SASS
 -   HTML
+-   CSS and SASS
 -   Advanced JavaScript
 -   Debugging techniques
 -   Responsive web design
@@ -51,11 +51,13 @@ Jagaad Academy's comprehensive Front-End (FE) curriculum includes the following 
 -   Advanced JavaScript concepts
 -   Code optimization strategies
 -   Consuming APIs
--   React & Redux Toolkit
+-   React
+-   Redux, Redux Toolkit, Redux Thunk
 -   TypeScript
 -   Next.js
 -   Docker
 -   Storybook
+-   Jest, Testing Library
 
 ![](./images/hashtag-jagaad-coach.png)
 
