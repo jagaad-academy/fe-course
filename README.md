@@ -1,9 +1,9 @@
 <p align="center">
 <img src="./images/top-banner_.jpg" />
-<h4 align="center"> <a href="#">Documentation</a>  <a href="#">FAQs</a>  <a href="#">Community</a> <a href="#">Privacy policy</a> </h4>
+<h4 align="center"> <a href="#">Documentation</a>  <a target="#" href="https://academy.jagaad.com/faqs/">FAQs</a>  <a href="#">Community</a> <a target="#" href="https://academy.jagaad.com/privacy-policy/">Privacy policy</a> </h4>
 <h3 align="center">Start your tech career with Jagaad Academy!</h3>
-<h4 align="center"><a href="https://academy.jagaad.com/course/php-backend-development/">Become a developer in 24 weeks with in a fully remote academy.</a></h4>
-<h3 align="center">Follow us on: <a href="https://www.instagram.com/academyjagaad/">Instagram</a> | <a href="https://www.facebook.com/JagaadAcademy">Facebook</a> | <a href="https://www.linkedin.com/school/jagaad-academy/">Linkedin</a></h3>
+<h4 align="center"><a target="#" href="https://academy.jagaad.com/course/frontend-development/">Become a developer in 24 weeks with in a fully remote academy.</a></h4>
+<h3 align="center">Follow us on: <a target="#" href="https://www.instagram.com/academyjagaad/">Instagram</a> | <a target="#" href="https://www.facebook.com/JagaadAcademy">Facebook</a> | <a target="#" href="https://www.linkedin.com/school/jagaad-academy/">Linkedin</a></h3>
 <hr align="center" /></p>
 
 # Summary
@@ -27,7 +27,7 @@ We empower you with top tech stacks and help develop essential skills alongside 
 
 # Scholarships
 
-Jagaad Academy wants to help students in the best way possible hence, we have introduced a scholarship program to empower and motivate our students to excel in their courses. We will provide scholarships to 4 top performing students (50% Off on Course Fees) upon the end of the course. 
+Jagaad Academy wants to help students in the best way possible hence, we have introduced a scholarship program to empower and motivate our students to excel in their courses. We will provide scholarships to 2 top performing students (50% Off on Course Fees) upon the end of the course. 
 
 # Community
 
@@ -80,9 +80,10 @@ We have free courses which can help you kickstart your learning journey. Our fre
 
 We teach our courses through a “study now, pay later" format, allowing you to pay for the course after 2 months from your graduation.
 
--   6 months of courses cost €3000
+-   6 months of courses cost €4000
 -   We offer to pay in Easy Monthly Installment
 -   You can also pay everything in one installment and benefit from our discounts
+-   [Check out our plans](https://academy.jagaad.com/course/frontend-development/#payment)
 
 # Will I be supported in looking for a new job after the course?
 
@@ -104,4 +105,4 @@ Also if you want to contact us directly, you can write to us at
 # Privacy policy
 
 For more information and to review our privacy policy, please visit our website: 
-[https://academy.jagaad.com/privacy/](https://academy.jagaad.com/privacy/)
+[https://academy.jagaad.com/privacy-policy/](https://academy.jagaad.com/privacy-policy/)
